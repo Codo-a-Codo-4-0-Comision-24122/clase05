@@ -1,0 +1,17 @@
+p {
+    background-color: rgb(255, 111, 0);
+}
+
+a {
+    background-color: violet;
+}
+
+body > p:nth-child(1) {
+    background-color: yellow;
+}
+
+body > p:nth-child(2) {
+    background-color: red;
+ }
+
+/* Creen una hoja de estilo para el formulario creado en la clase anterior  */
