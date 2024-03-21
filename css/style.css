@@ -6,6 +6,17 @@ a {
     background-color: violet;
 }
 
+/* Estoy definiendo una class*/
+.pAmarillo {
+    background-color: yellow;
+}
+
+/* ID se usa #*/
+#pMyID {
+    background-color: green;
+}
+
+/*
 body > p:nth-child(1) {
     background-color: yellow;
 }
@@ -13,5 +24,5 @@ body > p:nth-child(1) {
 body > p:nth-child(2) {
     background-color: red;
  }
-
+*/
 /* Creen una hoja de estilo para el formulario creado en la clase anterior  */
